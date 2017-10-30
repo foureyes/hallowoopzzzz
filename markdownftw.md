@@ -19,6 +19,14 @@ An unordered list ul elements
 
 Ordered list
 
-2. this is the first item
-8. this is the second
+1. this is the first item
+2. this is the second
+
+```
+def hello():
+  for i in range(5):
+    print('hello from github pages')
+```
+
+This is github pages. Use `jekyll` to generate site
 
