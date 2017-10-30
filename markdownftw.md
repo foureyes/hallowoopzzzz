@@ -38,8 +38,10 @@ to create a link: square brackets, then parens with actual url
 
 
 <section markdown="block">
-  * this is within a section block
-  * does it work?
+  
+* this is within a section block
+* does it work?
+
 </section>
 
 
