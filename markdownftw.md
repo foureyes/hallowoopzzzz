@@ -37,7 +37,7 @@ to create a link: square brackets, then parens with actual url
 ![this is the alt text](https://i.pinimg.com/236x/f0/eb/3b/f0eb3b1175bf2e784549696905269224--lemmy-candy-corn.jpg)
 
 
-<section markdown="block">
+<section style="border: 5px solid black" markdown="block">
   
 * this is within a section block
 * does it work?
